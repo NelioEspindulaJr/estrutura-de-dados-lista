@@ -1,3 +1,4 @@
 # estrutura-de-dados-lista
-Aluno: Nélio ESpíndula Junior
+Aluno: Nélio Espíndula Junior
+
 Turma: SI3N
